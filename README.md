@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/GulbeEvija/JS-Relax-App/">
-    <img src="relaxIcon.png" alt="Logo" width="80" height="80">
+    <img src="meditationIcon.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Relax App</h3>
