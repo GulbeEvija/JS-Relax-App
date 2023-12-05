@@ -99,3 +99,9 @@ Project Link: [https://github.com/GulbeEvija/JS-Relax-App/](https://github.com/G
 ## Acknowledgments
 
 Project provided by [CanSheCode](https://edu-canshecode.thinkific.com/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+[product-screenshot]: relaxPhoto.png
+
